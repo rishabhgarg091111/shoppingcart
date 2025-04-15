@@ -1,0 +1,32 @@
+.quantity {
+  background-color: red;
+  padding: 0 5px;
+}
+
+.decitemquant {
+  background-color: yellow;
+  padding: 0 6px;
+  text-align: center;
+  color: green;
+}
+.decitemquant:hover {
+  cursor: pointer;
+}
+.totalItemmsg {
+  color: red;
+  text-align: right;
+}
+.itemnumbers {
+  border-radius: 36%;
+  border: 1px solid green;
+  border: 2px solid red;
+  padding: 10px;
+  margin-left: 5px;
+}
+.addmoreitem {
+  color: green;
+  text-align: right;
+}
+.addmoreitem:hover {
+  cursor: pointer;
+}
